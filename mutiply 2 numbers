@@ -7,13 +7,13 @@ int main()
     cout << "Enter two numbers: ";
 
     // Stores two floating point numbers in variable firstNumber and secondNumber respectively
-    cin >> firstNumber >> secondNumber
+    cin >> firstNumber >> secondNumber;
  
     // Performs multiplication and stores the result in variable productOfTwoNumbers
     productOfTwoNumbers = firstNumber * secondnumber;  
 
-    cout << "Product = " << productOfTwoNumbers;    
+    cout << "Product of the numbers = " << productOfTwoNumbers;    
     
-    return 0
+    return 0;
 }
 
